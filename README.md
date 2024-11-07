@@ -1,8 +1,8 @@
 # IP-RMT-53-Server
 
-Individual Project RMT-53 Server Side
+Individual Project RMT-53 Server Side  - Deployment currently suspended
 
-# AniTrackr. App Server - Deployment currently suspended
+# AniTrackr. App Server
 
 ## RESTful endpoints
 
