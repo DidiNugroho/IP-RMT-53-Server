@@ -2,7 +2,7 @@
 
 Individual Project RMT-53 Server Side
 
-# AniTrackr. App Server
+# AniTrackr. App Server - Deployment currently suspended
 
 ## RESTful endpoints
 
